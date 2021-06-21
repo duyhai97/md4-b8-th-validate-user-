@@ -1,0 +1,8 @@
+config/AppInitializer.java
+ config.AppInitializer
+model/User.java
+ model.User
+config/AppConfig.java
+ config.AppConfig
+controller/UserController.java
+ controller.UserController
